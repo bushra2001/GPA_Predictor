@@ -12,11 +12,11 @@
 
 
 ## Formulate the problem :
-###Description
+### Description
 
 Cumulative Grade Point Average (CGPA) refers to the overall Grade Point Average (GPA), obtained by dividing the total Grade Points (GPs) earned in all courses attempted by the total degree-credit hours in all attempted courses. You are required to develop a machine learning system to predict final CGPA of a student at the end of fourth year given GPs of the courses obtained in initial years (up to first, second or third year).
 
-The dataset to be used is attached with this file with name The_Grades_Dataset.csv.
+The dataset to be used is attached with this file with name [The_Grades_Dataset.csv](https://github.com/bushra2001/GPA_Predictor/blob/main/The_Grades_Dataset.csv).
  * Model 1: predict final CGPA based on GPs of first year only.
  * Model 2: predict final CGPA based on GPs of first two years.
  * Model 3: predict final CGPA based on GPs of first three years.
