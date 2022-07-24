@@ -1,7 +1,7 @@
 # GPA Predictor
 ### Created by Bushra Ashfaque
 ## Steps to run ipynb file:
-* Add CS19011.ipynb file in Google Colab.
+* Add [GPA_Predictor.ipynb](https://github.com/bushra2001/GPA_Predictor/blob/main/GPA_PREDICTOR.ipynb) file in Google Colab.
 * Upload The_Grades_Dataset.csv file.
 * Press Runtime -> Runall cells
 * Give input as a user.
